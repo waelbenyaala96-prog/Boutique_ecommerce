@@ -1,0 +1,8 @@
+/* style.css (simple, propre) */
+body { background:#f7f9fc; }
+.card-product { transition: transform .12s ease; }
+.card-product:hover { transform: translateY(-6px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+.price { font-weight:700; color:#0d6efd; }
+.badge-stock { font-size:0.8rem; }
+.hero { background: linear-gradient(90deg,#0d6efdaa,#6610f2aa); color:#fff; padding:40px; border-radius:8px; }
+.product-img { height:180px; object-fit:contain; background:#fff; padding:12px; }

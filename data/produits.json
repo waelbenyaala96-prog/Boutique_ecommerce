@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1001",
+        "nom": "Casque Bluetooth X200",
+        "prix": 59.99,
+        "stock": 25,
+        "description": "Casque léger, autonomie 20h, réduction de bruit.",
+        "image": "https:\/\/via.placeholder.com\/300x200?text=Casque"
+    },
+    {
+        "id": "1002",
+        "nom": "Montre Connectée S5",
+        "prix": 89.5,
+        "stock": 12,
+        "description": "Montre sportive, cardio, notifications, étanche.",
+        "image": "https:\/\/via.placeholder.com\/300x200?text=Montre"
+    },
+    {
+        "id": "1003",
+        "nom": "Enceinte Portable MiniBoom",
+        "prix": 29.99,
+        "stock": 40,
+        "description": "Son clair, petit format, idéal voyage.",
+        "image": "https:\/\/via.placeholder.com\/300x200?text=Enceinte"
+    },
+    {
+        "id": "176400666723",
+        "nom": "samsung s23 ultra",
+        "prix": 1600,
+        "stock": 1,
+        "description": "s23 ultra presque neuf",
+        "image": ""
+    }
+]
