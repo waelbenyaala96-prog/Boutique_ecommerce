@@ -13,6 +13,11 @@
 </div>
 
 <h3>Produits en vedette</h3>
+    
+
+
+
+
 
 <div class="row">
 <?php
