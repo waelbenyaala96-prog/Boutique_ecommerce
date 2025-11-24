@@ -30,5 +30,13 @@
         "stock": 1,
         "description": "s23 ultra presque neuf",
         "image": "samsung s23 ultra.png"
+    },
+    {
+        "id": "176402578740",
+        "nom": "trottinette electrique",
+        "prix": 1600,
+        "stock": 1,
+        "description": "trottinette electrique neuf ",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSCumfK7JUr8FZlYl_fjLAab3aQ4CKvMPf8bQ&s"
     }
 ]
