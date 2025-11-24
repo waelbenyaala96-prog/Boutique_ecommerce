@@ -46,5 +46,13 @@
         "stock": 15,
         "description": "Mélangeur de Cuisine Compact avec capacité de 3.2Qt et 6 vitesses pour une expérience de mélange parfaite \r\ndisponible en 4 couleur :  rouge , noir , vert , bleu",
         "image": "https:\/\/m.media-amazon.com\/images\/I\/61jFYI4spyL._AC_SL1500_.jpg"
+    },
+    {
+        "id": "176402801069",
+        "nom": "Lampe LED de bureau",
+        "prix": 29.99,
+        "stock": 0,
+        "description": "Lampe de Bureau LED Flexible avec Port USB pour Eye-Caring Lecture et Éclairage de Chevet",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/71ydTSvxOcL._AC_SL1500_.jpg"
     }
 ]
