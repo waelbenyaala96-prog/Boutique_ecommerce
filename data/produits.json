@@ -5,7 +5,7 @@
         "prix": 59.99,
         "stock": 25,
         "description": "Casque léger, autonomie 20h, réduction de bruit.",
-        "image": "https:\/\/via.placeholder.com\/300x200?text=Casque"
+        "image": "Casque Bluetooth X200.png"
     },
     {
         "id": "1002",
@@ -13,7 +13,7 @@
         "prix": 89.5,
         "stock": 12,
         "description": "Montre sportive, cardio, notifications, étanche.",
-        "image": "https:\/\/via.placeholder.com\/300x200?text=Montre"
+        "image": "Montre Connectée S5.png"
     },
     {
         "id": "1003",
@@ -21,7 +21,7 @@
         "prix": 29.99,
         "stock": 40,
         "description": "Son clair, petit format, idéal voyage.",
-        "image": "https:\/\/via.placeholder.com\/300x200?text=Enceinte"
+        "image": "Enceinte Portable MiniBoom.png"
     },
     {
         "id": "176400666723",
@@ -29,6 +29,6 @@
         "prix": 1600,
         "stock": 1,
         "description": "s23 ultra presque neuf",
-        "image": ""
+        "image": "samsung s23 ultra.png"
     }
 ]
