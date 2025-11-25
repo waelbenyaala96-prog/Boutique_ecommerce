@@ -12,7 +12,7 @@
   </div>
 </div>
 
-<h3>Produits en vedette</h3>
+<h3>Wael Boutique • Vente en ligne</h3>
     
 
 
