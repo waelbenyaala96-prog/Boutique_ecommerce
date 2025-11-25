@@ -9,7 +9,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     exit;
 }
 ?>
-
 <h3>Ajouter un produit</h3>
 
 <form method="post">
@@ -20,5 +19,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <div class="mb-3"><label>Description</label><textarea name="description" class="form-control"></textarea></div>
   <button class="btn btn-success">Ajouter</button>
 </form>
-
 <?php include "includes/footer.php"; ?>

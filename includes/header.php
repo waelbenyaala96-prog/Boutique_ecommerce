@@ -39,5 +39,4 @@ if (session_status() == PHP_SESSION_NONE) session_start();
     </div>
   </div>
 </nav>
-
 <div class="container my-4">

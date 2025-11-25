@@ -13,12 +13,6 @@
 </div>
 
 <h3>Wael Boutique • Vente en ligne</h3>
-    
-
-
-
-
-
 <div class="row">
 <?php
 $produits = chargerProduits();

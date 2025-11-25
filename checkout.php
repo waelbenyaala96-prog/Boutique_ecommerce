@@ -9,7 +9,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     exit;
 }
 ?>
-
 <h3>Checkout</h3>
 <p>Page de paiement simulée. Cliquer pour confirmer la commande.</p>
 
