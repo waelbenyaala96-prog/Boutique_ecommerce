@@ -115,7 +115,7 @@ header h1 {
 
 .badge-stock {
     display: inline-block;
-    background: #22c55e;
+    background: #fbff00;
     padding: 4px 10px;
     border-radius: 20px;
     font-size: 13px;
@@ -167,3 +167,4 @@ footer {
     color: white;
     border-radius: 20px 20px 0 0;
 }
+
